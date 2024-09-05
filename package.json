@@ -1,0 +1,11 @@
+{
+  "name": "sf-core-svc",
+  "version": "1.0.0",
+  "description": "sector sphere core service",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Aitor",
+  "license": "ISC"
+}
